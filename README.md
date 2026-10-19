@@ -1,4 +1,4 @@
-\# 📄 Dokumentasi Projek: Aplikasi Manajemen Keuangan Pribadi
+\#  📄 Dokumentasi Projek: Aplikasi Manajemen Keuangan Pribadi
 
 
 
@@ -8,7 +8,7 @@ Aplikasi ini dikembangkan untuk mencatat, melacak, dan mengelola arus kas keuang
 
 
 
-\## 2. Tumpukan Teknologi (\*Tech Stack\*)
+\##  2. Tumpukan Teknologi (\*Tech Stack\*)
 
 \*   \*\*Database Terpusat:\*\* Google Sheets
 
@@ -60,7 +60,7 @@ Aplikasi ini dikembangkan untuk mencatat, melacak, dan mengelola arus kas keuang
 
 \### 5. Panduan Pemecahan Masalah (\*Troubleshooting\*)
 
-\*   \*\*Warna Transaksi Tidak Muncul/Error:\*\* 
+\*   \*\*Warna Transaksi Tidak Muncul/Error:\*\*
 
 &#x20;   Pastikan nama kolom yang dipanggil di dalam formula \*Format Rules\* AppSheet sudah \*\*sama persis\*\* dengan nama \*header\* kolom yang berada di database Google Sheets. Ketidakcocokan satu karakter pun akan membatalkan pe-render-an warna.
 
